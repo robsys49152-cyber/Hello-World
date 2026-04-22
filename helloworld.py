@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ============================================================
- Program:      Dramatic Hello World Printer v1.3
+ Program:      Dramatic Hello World Printer v1.3b
  Author:       Example Script
  Created:      2026-04-08
 
