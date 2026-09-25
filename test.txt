@@ -1,9 +1,10 @@
+
 #!/usr/bin/env python3
 """
 ============================================================
- Program:      Dramatic Hello World Printer v1.3c
+ Program:      Dramatic Hello World Printer v1.2
  Author:       Example Script
- Created:      2026-09-28
+ Created:      2026-04-08
 
  Description:
      This script demonstrates a stylized and slightly theatrical
